@@ -1,0 +1,15 @@
+package myapplication;
+
+import java.util.Scanner;
+
+public class Demo {
+	public static void main(String[] args) throws ClassNotFoundException {
+		Scanner kbd = new Scanner(System.in);
+		
+		Class.forName("com.mysql.cj.jdbc.Driver");
+		System.out.println("Driver Found");
+		
+		
+	}
+
+}

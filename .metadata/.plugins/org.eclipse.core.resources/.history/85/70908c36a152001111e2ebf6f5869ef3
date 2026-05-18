@@ -1,0 +1,9 @@
+function validate(){
+	
+	if(document.regForm.fname.value==""){
+		alert("Enter Your Name !!!")
+		return false;
+	}
+	
+	
+}
