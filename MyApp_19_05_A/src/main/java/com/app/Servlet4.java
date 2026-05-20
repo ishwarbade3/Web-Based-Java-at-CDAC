@@ -59,23 +59,19 @@ public class Servlet4 extends HttpServlet {
 			if (eng == null) {
 				throw new Exception();
 			}
-			 String url = "";
+			String url = "";
 
-		        if (eng.equals("google")) {
-		            url = "https://www.google.com/search?q=" + data;
-		        } 
-		        else if (eng.equals("bing")) {
-		            url = "https://www.bing.com/search?q=" + data;
-		        } 
-		        else if (eng.equals("brave")) {
-		            url = "https://search.brave.com/search?q=" + data;
-		        } 
-		        else if (eng.equals("yahoo")) {
-		            url = "https://in.search.yahoo.com/search?p=" + data;
-		        } 
-		        else {
-		            throw new Exception();
-		        }
+			if (eng.equals("google")) {
+				url = "https://www.google.com/search?q=" + data;
+			} else if (eng.equals("edge")) {
+				url = "https://www.bing.com/search?filters=" + data;
+			} else if (eng.equals("brave")) {
+				url = "https://search.brave.com/search?q" + data;
+			} else if (eng.equals("yahoo")) {
+				url = "https://in.search.yahoo.com/search?p=" + data;
+			} else {
+				throw new Exception();
+			}
 			resp.sendRedirect(url);
 
 		} catch (Exception e) {
