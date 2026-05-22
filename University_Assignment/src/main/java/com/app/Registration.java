@@ -64,11 +64,11 @@ public class Registration extends HttpServlet {
 			int i = pst.executeUpdate();
 			
 			if(i==1) {
-				out.write("Record of Prn : "+prn+" Inserted Sucessfully");
+				//out.write("Record of Prn : "+prn+" Inserted Sucessfully");
 				req.getRequestDispatcher("regStudent.html").include(req, resp);
 			}
 			else {
-				out.write("Something went wrong try after sometime");
+				//out.write("Something went wrong try after sometime");
 				req.getRequestDispatcher("regStudent.html").include(req, resp);
 				
 			}
