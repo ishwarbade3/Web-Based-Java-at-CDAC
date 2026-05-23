@@ -5,8 +5,6 @@
 	id="WebApp_ID" version="5.0">
 	<display-name>MyApp_22_05_bean</display-name>
 	<welcome-file-list>
-
 		<welcome-file>toDoList.jsp</welcome-file>
-
 	</welcome-file-list>
 </web-app>

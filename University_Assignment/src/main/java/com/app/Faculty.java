@@ -35,7 +35,7 @@ public class Faculty extends HttpServlet {
 		String pass = req.getParameter("pass");
 		
 		if(user.equals("faculty")&&pass.equals("faculty123")) {
-			out.write("Login sucessfull!!!" );
+			//out.write("Login sucessfull!!!" );
 			req.getRequestDispatcher("regStudent.html").include(req, resp);
 		}
 		else {

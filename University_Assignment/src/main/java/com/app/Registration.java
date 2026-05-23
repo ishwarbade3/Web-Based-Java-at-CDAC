@@ -42,7 +42,7 @@ public class Registration extends HttpServlet {
 		float sub4 = Float.parseFloat(req.getParameter("sub4"));
 		float sub5 = Float.parseFloat(req.getParameter("sub5"));
 		if(prn==null) {
-			out.write("Insert Valid Data!!!!!");
+			//out.write("Insert Valid Data!!!!!");
 			req.getRequestDispatcher("regStudent.html").include(req, resp);
 			return;
 		}

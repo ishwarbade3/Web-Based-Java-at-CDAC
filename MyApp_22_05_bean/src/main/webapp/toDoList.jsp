@@ -7,13 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body align="center">
-	<form action="toDoList" method="post">
-
-		Enter an Item : <input type="text" name="item"> <input
-			type="submit" value="add">
+	<form action="toDoList.jsp" method="post">
+		Enter an Item : <input type="text" name="item">
+		 <input type="submit" value="Submit">
 	</form>
 	<%
-	List<String> list = (List<String>) session.getAttribute("myList");
+	List<String> list = (List<String>)session.getAttribute("myList");
 	if (list == null) {
 		list = new ArrayList<String>();
 		session.setAttribute("myList", list);
@@ -25,12 +24,11 @@
 	%>
 	<hr>
 	<hr>
-
 	<h2>To Do List</h2>
 	<ol>
 		<%
 		for (String str : list) {
-			out.println(str);
+			out.println(str+"<br>");
 		}
 		%>
 
@@ -39,7 +37,7 @@
 	<ol>
 		<%
 		for (String str : list) {
-			out.write(str);
+			out.write(str+"<br>");
 		}
 		%>
 
