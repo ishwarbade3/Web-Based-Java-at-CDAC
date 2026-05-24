@@ -10,13 +10,21 @@
 </head>
 <body>
 	<c:set var="num" value="100" />
-	Num :	<c:out value="${num }" />
+	Num :
+	<c:out value="${num }" />
 	<br> Greater Than :
 	<c:out value="${15>20 }" />
 	<c:set var="name" value="ishwar" />
-	<br> 
-	Name:<c:out value="${fn:length(name) }"/>
- 
- 
+	<br> Name:
+	<c:out value="${fn:length(name) }" />
+
+	<hr>
+	<hr>
+
+	<h2>
+		<a href="serv1">Click Here.....</a>
+	</h2>
+
+
 </body>
 </html>
