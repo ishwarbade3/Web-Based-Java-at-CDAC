@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.app.bean.Employee;
+import com.mysql.cj.x.protobuf.MysqlxPrepare.Prepare;
 
 public class EmployeeDAO {
 
@@ -89,6 +90,19 @@ public class EmployeeDAO {
 		pstmt.setString(5, e.getAge());
 		pstmt.setInt(6, e.getId());
 		int i = pstmt.executeUpdate();
+		if (i == 1)
+			return true;
+		else
+			return false;
+	}
+
+	public static boolean delete(int id) throws ClassNotFoundException, SQLException {
+
+		Connection con = getConnection();
+		PreparedStatement pst = con.prepareStatement("delete from Employee where id =?");
+		pst.setInt(1, id);
+
+		int i = pst.executeUpdate();
 		if (i == 1)
 			return true;
 		else

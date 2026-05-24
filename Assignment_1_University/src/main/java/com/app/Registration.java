@@ -33,7 +33,7 @@ public class Registration extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		resp.setContentType("text/html");
-		PrintWriter out = resp.getWriter();
+		//PrintWriter out = resp.getWriter();
 		
 		String prn = req.getParameter("prn");
 		float sub1 = Float.parseFloat(req.getParameter("sub1"));

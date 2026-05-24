@@ -8,12 +8,15 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body>
+<body align="center">
+	<hr>
+	<h3><a href="index.jsp">Home</a></h3>
+	<hr><hr>
 	<%
 	List<Employee> list = EmployeeDAO.getAllEmployees();
 	pageContext.setAttribute("list", list);
 	%>
-	<table border="1">
+	<table border="1" align="center">
 		<tr>
 			<th>ID</th>
 			<th>FirstName</th>
@@ -37,6 +40,7 @@
 			</tr>
 		</c:forEach>
 	</table>
+
 
 
 
