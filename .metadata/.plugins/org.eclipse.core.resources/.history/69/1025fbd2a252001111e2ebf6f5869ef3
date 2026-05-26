@@ -1,7 +1,0 @@
-@charset "ISO-8859-1";
-
-table{
-	border:1px solid pink;
-	width:100%;
-	font-family: cursive;
-}

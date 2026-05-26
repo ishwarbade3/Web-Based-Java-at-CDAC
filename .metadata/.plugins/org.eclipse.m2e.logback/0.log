@@ -5246,3 +5246,709 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact jakarta.servl
 2026-05-25 18:17:20,944 [Worker-88: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
 2026-05-25 18:17:20,990 [Worker-88: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
 2026-05-25 18:17:21,041 [Worker-88: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-25 22:45:39,595 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-05-25 22:45:49,527 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:45:49,530 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_1_University\src\main\resources
+2026-05-25 22:45:49,548 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:45:49,551 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_1_University\src\test\resources
+2026-05-25 22:46:05,100 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-25 22:46:05,388 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:05,390 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 22:46:05,395 [Worker-25: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:05,397 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 22:46:08,418 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:08,419 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_19_05_A\src\main\resources
+2026-05-25 22:46:08,423 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:08,425 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_19_05_A\src\test\resources
+2026-05-25 22:46:08,797 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:08,799 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_19_05_B\src\main\resources
+2026-05-25 22:46:08,802 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:08,804 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_19_05_B\src\test\resources
+2026-05-25 22:46:09,053 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,055 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_A\src\main\resources
+2026-05-25 22:46:09,059 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,061 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_A\src\test\resources
+2026-05-25 22:46:09,366 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,367 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_B\src\main\resources
+2026-05-25 22:46:09,370 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,371 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_B\src\test\resources
+2026-05-25 22:46:09,543 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,545 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_C\src\main\resources
+2026-05-25 22:46:09,548 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,549 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_C\src\test\resources
+2026-05-25 22:46:09,748 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,749 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_21_05_A\src\main\resources
+2026-05-25 22:46:09,755 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,756 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_21_05_A\src\test\resources
+2026-05-25 22:46:09,847 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,849 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_21_05_Jsp\src\main\resources
+2026-05-25 22:46:09,852 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,853 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_21_05_Jsp\src\test\resources
+2026-05-25 22:46:09,949 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,950 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_22_05_A\src\main\resources
+2026-05-25 22:46:09,954 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:09,955 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_22_05_A\src\test\resources
+2026-05-25 22:46:10,071 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:10,072 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_22_05_bean\src\main\resources
+2026-05-25 22:46:10,077 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:10,078 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_22_05_bean\src\test\resources
+2026-05-25 22:46:10,265 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-25 22:46:10,332 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:10,334 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_CRUD\src\main\resources
+2026-05-25 22:46:10,337 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:10,338 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_CRUD\src\test\resources
+2026-05-25 22:46:10,541 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-25 22:46:10,591 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:10,593 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_Internationalitation\src\main\resources
+2026-05-25 22:46:10,598 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:10,599 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_Internationalitation\src\test\resources
+2026-05-25 22:46:10,802 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-25 22:46:10,844 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:10,845 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_jstl\src\main\resources
+2026-05-25 22:46:10,849 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:10,851 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_jstl\src\test\resources
+2026-05-25 22:46:10,987 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-25 22:46:11,035 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:11,037 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_taglib\src\main\resources
+2026-05-25 22:46:11,041 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:11,042 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_taglib\src\test\resources
+2026-05-25 22:46:12,687 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate\src\main\resources
+2026-05-25 22:46:12,695 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate\src\test\resources
+2026-05-25 22:46:14,966 [Worker-23: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier  to /MyApp_25_05_hibernate/target/classes
+2026-05-25 22:46:15,004 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:15,006 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-25 22:46:15,013 [Worker-23: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:15,014 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-25 22:46:29,171 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:29,173 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-25 22:46:29,176 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:29,178 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-25 22:46:47,360 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:47,361 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-25 22:46:47,364 [Worker-14: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:46:47,366 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-25 22:47:46,923 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:Assignment_2_StudentCourse:0.0.1-SNAPSHOT @ C:\Web_Java\Assignment_2_StudentCourse\pom.xml.
+2026-05-25 22:47:46,942 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-25 22:47:47,483 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:47:47,487 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 22:47:47,499 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:47:47,503 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 22:47:47,513 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Assignment_2_StudentCourse
+2026-05-25 22:47:47,521 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Assignment_2_StudentCourse
+2026-05-25 22:48:32,548 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:48:32,552 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 22:48:32,561 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 22:48:32,563 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:00:00,308 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2026-05-25 23:00:00,928 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:Assignment_2_StudentCourse:0.0.1-SNAPSHOT @ C:\Web_Java\Assignment_2_StudentCourse\pom.xml.
+2026-05-25 23:00:01,236 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0-RC1/jakarta.servlet.jsp.jstl-api-3.0.0-RC1.pom
+2026-05-25 23:00:01,240 [Worker-28: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-25 23:00:01,401 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_23_05_Internationalitation:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_23_05_Internationalitation\pom.xml.
+2026-05-25 23:00:01,479 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_25_05_hibernate_instructor:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_25_05_hibernate_instructor\pom.xml.
+2026-05-25 23:00:01,492 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier  to /MyApp_25_05_hibernate/target/classes
+2026-05-25 23:00:01,532 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_21_05_Jsp:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_21_05_Jsp\pom.xml.
+2026-05-25 23:00:01,569 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_22_05_jstl:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_23_05_jstl\pom.xml.
+2026-05-25 23:00:01,600 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_19_05_A:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_19_05_A\pom.xml.
+2026-05-25 23:00:01,635 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_19_05_B:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_19_05_B\pom.xml.
+2026-05-25 23:00:01,669 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_20_05_C:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_20_05_C\pom.xml.
+2026-05-25 23:00:01,705 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:University_Assignment:0.0.1-SNAPSHOT @ C:\Web_Java\Assignment_1_University\pom.xml.
+2026-05-25 23:00:01,742 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_23_05_taglib:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_23_05_taglib\pom.xml.
+2026-05-25 23:00:01,784 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_20_05_B:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_20_05_B\pom.xml.
+2026-05-25 23:00:01,902 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_23_05_CRUD:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_23_05_CRUD\pom.xml.
+2026-05-25 23:00:02,046 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_22_05_bean:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_22_05_bean\pom.xml.
+2026-05-25 23:00:02,098 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_20_05_A:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_20_05_A\pom.xml.
+2026-05-25 23:00:02,147 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_22_05_A:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_22_05_A\pom.xml.
+2026-05-25 23:00:02,187 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:MyApp_21_05_A:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_21_05_A\pom.xml.
+2026-05-25 23:00:04,564 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Assignment_2_StudentCourse/src/main/java
+2026-05-25 23:00:04,565 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Assignment_2_StudentCourse/src/main/resources
+2026-05-25 23:00:04,566 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Assignment_2_StudentCourse/src/test/java
+2026-05-25 23:00:04,566 [Worker-28: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Assignment_2_StudentCourse/src/test/resources
+2026-05-25 23:00:05,063 [Worker-28: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Assignment_2_StudentCourse
+2026-05-25 23:00:05,084 [Worker-28: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 0.00 sec 
+2026-05-25 23:00:05,255 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:00:05,256 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:00:05,262 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:00:05,263 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:00:05,264 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Assignment_2_StudentCourse
+2026-05-25 23:00:05,264 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Assignment_2_StudentCourse
+2026-05-25 23:01:33,172 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:01:33,175 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:01:33,178 [Worker-28: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:01:33,179 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:03:21,452 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:03:21,456 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:03:21,463 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:03:21,467 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:26:15,333 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:26:15,347 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:26:15,352 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:26:15,355 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:30:10,693 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:30:10,703 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:30:10,709 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:30:10,711 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:31:23,386 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:31:23,391 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:31:23,402 [Worker-39: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:31:23,404 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:32:33,454 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:32:33,455 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:32:33,462 [Worker-41: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:32:33,463 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:33:18,601 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:33:18,603 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:33:18,615 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:33:18,618 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:33:27,043 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:33:27,045 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:33:27,048 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:33:27,051 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:34:20,339 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:34:20,343 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:34:20,350 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:34:20,353 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:45:19,869 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:45:19,884 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:45:19,893 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:45:19,897 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:50:03,813 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:50:03,823 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:50:03,830 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:50:03,833 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:50:52,145 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:50:52,146 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:50:52,151 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:50:52,152 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:51:22,264 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:51:22,267 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:51:22,276 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:51:22,282 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:52:04,809 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:52:04,812 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:52:04,823 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:52:04,826 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:52:21,243 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:52:21,245 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:52:21,253 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:52:21,255 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:53:19,373 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:53:19,374 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:53:19,381 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:53:19,382 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:53:31,948 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:53:31,952 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:53:31,958 [Worker-46: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:53:31,961 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:55:52,569 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:55:52,571 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:55:52,573 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:55:52,574 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-25 23:59:36,284 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:59:36,287 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-25 23:59:36,295 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-25 23:59:36,297 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:00:12,585 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:00:12,586 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:00:12,589 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:00:12,590 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:01:49,574 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:01:49,578 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:01:49,588 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:01:49,590 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:03:09,235 [Worker-48: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:03:09,237 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:03:09,241 [Worker-48: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:03:09,243 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:03:23,521 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.9+9
+2026-05-26 00:03:23,600 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@4034514a{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@2c649048{STARTED}}
+2026-05-26 00:03:23,603 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2026-05-26 00:03:23,650 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@20249211{HTTP/1.1, (http/1.1)}{127.0.0.1:64354}
+2026-05-26 00:03:23,685 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@aa20b7e{STARTING}[12.0.3,sto=0] @5884370ms
+2026-05-26 00:05:21,615 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:05:21,617 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:05:21,620 [Worker-42: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:05:21,621 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:06:45,687 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:06:45,688 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:06:45,694 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:06:45,695 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:18:44,744 [Worker-59: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:18:44,757 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:18:44,766 [Worker-59: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:18:44,769 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:33:27,322 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:33:27,326 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:33:27,330 [Worker-60: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:33:27,332 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:34:55,754 [Worker-59: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:34:55,755 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:34:55,759 [Worker-59: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:34:55,759 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:35:34,658 [Worker-59: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:35:34,661 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:35:34,668 [Worker-59: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:35:34,671 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:40:36,829 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:40:36,835 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:40:36,837 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:40:36,837 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:40:36,866 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:40:36,869 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_CRUD\src\main\resources
+2026-05-26 00:40:36,871 [Worker-66: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:40:36,872 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_CRUD\src\test\resources
+2026-05-26 00:41:21,759 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:41:21,761 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:41:21,767 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:41:21,770 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:41:36,022 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:41:36,026 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:41:36,035 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:41:36,038 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 00:44:34,099 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:44:34,103 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 00:44:34,107 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 00:44:34,109 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 14:37:19,480 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:19,486 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_1_University\src\main\resources
+2026-05-26 14:37:19,494 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:19,496 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_1_University\src\test\resources
+2026-05-26 14:37:21,771 [Worker-3: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0-RC1/jakarta.servlet.jsp.jstl-api-3.0.0-RC1.pom
+2026-05-26 14:37:21,776 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-26 14:37:22,076 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:22,078 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 14:37:22,084 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:22,085 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 14:37:22,541 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:22,542 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_19_05_A\src\main\resources
+2026-05-26 14:37:22,546 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:22,548 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_19_05_A\src\test\resources
+2026-05-26 14:37:22,864 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:22,866 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_19_05_B\src\main\resources
+2026-05-26 14:37:22,870 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:22,871 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_19_05_B\src\test\resources
+2026-05-26 14:37:23,009 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,011 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_A\src\main\resources
+2026-05-26 14:37:23,017 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,018 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_A\src\test\resources
+2026-05-26 14:37:23,162 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,164 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_B\src\main\resources
+2026-05-26 14:37:23,167 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,169 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_B\src\test\resources
+2026-05-26 14:37:23,305 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,306 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_C\src\main\resources
+2026-05-26 14:37:23,310 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,311 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_20_05_C\src\test\resources
+2026-05-26 14:37:23,448 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,449 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_21_05_A\src\main\resources
+2026-05-26 14:37:23,455 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,456 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_21_05_A\src\test\resources
+2026-05-26 14:37:23,516 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,517 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_21_05_Jsp\src\main\resources
+2026-05-26 14:37:23,521 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,523 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_21_05_Jsp\src\test\resources
+2026-05-26 14:37:23,587 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,588 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_22_05_A\src\main\resources
+2026-05-26 14:37:23,593 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,594 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_22_05_A\src\test\resources
+2026-05-26 14:37:23,692 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,693 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_22_05_bean\src\main\resources
+2026-05-26 14:37:23,697 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:23,698 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_22_05_bean\src\test\resources
+2026-05-26 14:37:24,037 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-26 14:37:24,081 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:24,082 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_CRUD\src\main\resources
+2026-05-26 14:37:24,086 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:24,088 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_CRUD\src\test\resources
+2026-05-26 14:37:24,264 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-26 14:37:24,302 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:24,303 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_Internationalitation\src\main\resources
+2026-05-26 14:37:24,307 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:24,309 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_Internationalitation\src\test\resources
+2026-05-26 14:37:24,409 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-26 14:37:24,447 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:24,449 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_jstl\src\main\resources
+2026-05-26 14:37:24,452 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:24,454 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_jstl\src\test\resources
+2026-05-26 14:37:24,555 [Worker-3: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-26 14:37:24,596 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:24,598 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_taglib\src\main\resources
+2026-05-26 14:37:24,601 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:24,602 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_23_05_taglib\src\test\resources
+2026-05-26 14:37:26,153 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate\src\main\resources
+2026-05-26 14:37:26,159 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate\src\test\resources
+2026-05-26 14:37:27,659 [Worker-3: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier  to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:37:27,696 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:27,697 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:37:27,704 [Worker-3: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:37:27,705 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:37:38,179 [Worker-14: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-05-26 14:39:23,823 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.9+9
+2026-05-26 14:39:23,953 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@332891ff{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@48d76787{STARTED}}
+2026-05-26 14:39:23,954 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2026-05-26 14:39:24,028 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@7acafa6e{HTTP/1.1, (http/1.1)}{127.0.0.1:54034}
+2026-05-26 14:39:24,054 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@7f0f62ad{STARTING}[12.0.3,sto=0] @206915ms
+2026-05-26 14:40:49,538 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:40:49,540 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:40:49,544 [Worker-22: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:40:49,546 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:41:29,528 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:41:29,529 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:41:29,533 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:41:29,534 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:41:50,384 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:41:50,385 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:41:50,389 [Worker-4: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:41:50,391 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:44:57,342 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:44:57,345 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:44:57,353 [Worker-20: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:44:57,356 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:45:21,729 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:45:21,733 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:45:21,742 [Worker-6: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:45:21,745 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:45:26,066 [Worker-4: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:45:26,148 [Worker-4: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:45:26,195 [Worker-4: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:46:59,223 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:46:59,224 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:46:59,226 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:46:59,226 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:47:01,794 [Worker-2: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:47:01,885 [Worker-2: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:47:01,933 [Worker-2: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:50:10,740 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:50:10,743 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:50:10,749 [Worker-8: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:50:10,786 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:50:14,056 [Worker-8: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:50:14,090 [Worker-8: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:50:14,122 [Worker-8: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:55:04,806 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:55:04,808 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:55:04,811 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:55:04,812 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:58:22,172 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:58:22,175 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:58:22,183 [Worker-31: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:58:22,186 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:58:30,711 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:58:30,712 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 14:58:30,715 [Worker-30: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 14:58:30,718 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 14:58:53,768 [Worker-28: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:58:53,862 [Worker-28: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 14:58:53,962 [Worker-28: Launching App (1)] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:01:38,171 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:01:38,173 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:01:38,176 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:01:38,178 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:03:03,714 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:03:03,717 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:03:03,723 [Worker-33: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:03:03,725 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:04:34,803 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:04:34,805 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:04:34,811 [Worker-34: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:04:34,812 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:13:03,576 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:13:03,578 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:13:03,581 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:13:03,581 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:13:05,361 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:13:05,363 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:13:05,408 [Worker-37: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:13:05,410 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:15:03,941 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:15:03,942 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:15:03,943 [Worker-32: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:15:03,944 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:18:10,802 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:18:10,804 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:18:10,808 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:18:10,809 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:18:35,998 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:18:36,000 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:18:36,002 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:18:36,003 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:22:08,555 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:22:08,558 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:22:08,566 [Worker-36: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:22:08,569 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:23:11,847 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:23:11,849 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:23:11,852 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:23:11,854 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:23:20,783 [Worker-38: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:23:20,827 [Worker-38: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:23:20,876 [Worker-38: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:23:52,423 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:23:52,425 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:23:52,433 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:23:52,434 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:25:09,671 [Worker-41: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:25:09,704 [Worker-41: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:25:09,750 [Worker-41: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:25:46,911 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:25:46,915 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:25:46,918 [Worker-26: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:25:46,920 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:26:02,782 [Worker-40: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:26:02,815 [Worker-40: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:26:02,848 [Worker-40: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:26:43,325 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:26:43,328 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:26:43,334 [Worker-40: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:26:43,337 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:26:53,506 [Worker-38: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:26:53,583 [Worker-38: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:26:53,632 [Worker-38: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:29:16,402 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:29:16,405 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 15:29:16,408 [Worker-38: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:29:16,410 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 15:29:21,978 [Worker-36: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:29:22,021 [Worker-36: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:29:22,065 [Worker-36: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 15:40:28,944 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:HibernateWeb:0.0.1-SNAPSHOT @ C:\Web_Java\HibernateWeb\pom.xml.
+2026-05-26 15:40:30,161 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.pom
+2026-05-26 15:40:30,181 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.pom
+2026-05-26 15:40:30,244 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.pom
+2026-05-26 15:40:30,250 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.pom
+2026-05-26 15:40:30,363 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.21.9/protobuf-parent-3.21.9.pom
+2026-05-26 15:40:30,373 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-parent/3.21.9/protobuf-parent-3.21.9.pom
+2026-05-26 15:40:30,535 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.21.9/protobuf-bom-3.21.9.pom
+2026-05-26 15:40:30,543 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-bom/3.21.9/protobuf-bom-3.21.9.pom
+2026-05-26 15:40:30,759 [Worker-40: Importing Maven projects] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-26 15:40:30,860 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar
+2026-05-26 15:40:31,152 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar
+2026-05-26 15:40:31,270 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar
+2026-05-26 15:40:31,372 [BasicRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar
+2026-05-26 15:40:34,166 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateWeb/src/main/java
+2026-05-26 15:40:34,167 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateWeb/src/main/resources
+2026-05-26 15:40:34,168 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateWeb/src/test/java
+2026-05-26 15:40:34,168 [Worker-40: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateWeb/src/test/resources
+2026-05-26 15:40:34,880 [Worker-40: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 14 sec
+2026-05-26 15:40:35,261 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:40:35,263 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\HibernateWeb\src\main\resources
+2026-05-26 15:40:35,266 [Worker-44: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:40:35,267 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\HibernateWeb\src\test\resources
+2026-05-26 15:43:05,914 [Worker-44: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:HibernateWeb:0.0.1-SNAPSHOT @ C:\Web_Java\HibernateWeb\pom.xml.
+2026-05-26 15:43:06,082 [Worker-44: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-26 15:43:06,151 [Worker-44: Updating Maven Dependencies] ERROR o.e.m.c.i.p.r.ProjectRegistryRefreshJob - Cannot invoke "org.eclipse.core.runtime.IPath.toFile()" because the return value of "org.eclipse.core.resources.IProject.getLocation()" is null
+java.lang.NullPointerException: Cannot invoke "org.eclipse.core.runtime.IPath.toFile()" because the return value of "org.eclipse.core.resources.IProject.getLocation()" is null
+	at org.eclipse.m2e.wtp.ProjectUtils.getRelativePath(ProjectUtils.java:54)
+	at org.eclipse.m2e.wtp.ProjectUtils.getBuildFolder(ProjectUtils.java:80)
+	at org.eclipse.m2e.wtp.ProjectUtils.getM2eclipseWtpFolder(ProjectUtils.java:71)
+	at org.eclipse.m2e.wtp.internal.mavenarchiver.WarMavenArchiverConfigurator.getOutputDir(WarMavenArchiverConfigurator.java:44)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.getBuildOutputDir(AbstractMavenArchiverConfigurator.java:820)
+	at org.eclipse.m2e.mavenarchiver.internal.AbstractMavenArchiverConfigurator.mavenProjectChanged(AbstractMavenArchiverConfigurator.java:225)
+	at org.eclipse.m2e.wtp.mavenarchiver.AbstractWTPArchiverConfigurator.mavenProjectChanged(AbstractWTPArchiverConfigurator.java:56)
+	at org.eclipse.m2e.core.internal.project.ProjectConfigurationManager.mavenProjectChanged(ProjectConfigurationManager.java:882)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2026-05-26 15:43:06,420 [Worker-53: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.app:HibernateWeb:0.0.1-SNAPSHOT @ C:\Web_Java\MyApp_26_05_HibernateWeb\pom.xml.
+2026-05-26 15:43:06,570 [Worker-53: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for jakarta.servlet.jsp.jstl:jakarta.servlet.jsp.jstl-api:jar:3.0.0-RC1 is missing, no dependency information available
+2026-05-26 15:43:06,749 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:43:06,751 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:43:06,755 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:43:06,775 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:44:22,742 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:22,745 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:44:22,769 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:22,771 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:44:26,691 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:26,693 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:44:26,697 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:26,698 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:44:35,116 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:35,117 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:44:35,122 [Worker-50: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:35,124 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:44:40,331 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:40,333 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:44:40,336 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:40,337 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:44:44,027 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:44,028 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:44:44,029 [Worker-51: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:44,031 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:44:47,880 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:47,883 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:44:47,889 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:44:47,891 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:45:59,815 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:45:59,817 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:45:59,820 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:45:59,821 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:50:16,847 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:50:16,849 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:50:16,851 [Worker-56: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:50:16,891 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:50:54,721 [Worker-52: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:50:54,722 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:50:54,724 [Worker-52: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:50:54,726 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:52:01,053 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:52:01,054 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:52:01,056 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:52:01,057 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:52:22,324 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:52:22,328 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:52:22,334 [Worker-53: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:52:22,337 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:52:30,737 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:52:30,738 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:52:30,740 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:52:30,742 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 15:53:11,924 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:53:11,928 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 15:53:11,934 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 15:53:11,937 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:00:43,843 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:00:43,845 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:00:43,850 [Worker-54: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:00:43,853 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:02:44,999 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:02:45,001 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:02:45,004 [Worker-47: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:02:45,041 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:04:23,102 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:04:23,104 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:04:23,108 [Worker-58: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:04:23,110 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:28:07,370 [Worker-63: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:28:07,383 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:28:07,388 [Worker-63: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:28:07,389 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:30:08,224 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:30:08,226 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:30:08,229 [Worker-55: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:30:08,230 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:33:18,360 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:33:18,361 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:33:18,365 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:33:18,366 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:35:18,686 [Worker-71: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:35:18,687 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:35:18,691 [Worker-71: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:35:18,693 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:35:42,597 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:35:42,599 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:35:42,603 [Worker-69: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:35:42,604 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:37:35,138 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:37:35,141 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:37:35,144 [Worker-67: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:37:35,146 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:40:02,703 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:40:02,706 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:40:02,710 [Worker-72: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:40:02,711 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:40:19,581 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:40:19,583 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:40:19,589 [Worker-68: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:40:19,591 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:40:30,911 [Worker-76: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:40:30,913 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:40:30,919 [Worker-76: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:40:30,921 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:43:32,378 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:43:32,379 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:43:32,381 [Worker-78: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:43:32,382 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:50:41,375 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:50:41,378 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:50:41,381 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:50:41,382 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:52:29,406 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:52:29,407 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:52:29,410 [Worker-79: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:52:29,411 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:55:43,741 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:55:43,745 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:55:43,750 [Worker-74: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:55:43,765 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:55:56,117 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:55:56,119 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:55:56,122 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:55:56,124 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:56:22,020 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:56:22,023 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:56:22,027 [Worker-85: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:56:22,028 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 16:58:56,997 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:58:56,999 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 16:58:57,001 [Worker-81: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 16:58:57,002 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 17:00:33,982 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:00:33,982 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\main\resources
+2026-05-26 17:00:33,984 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:00:33,986 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_26_05_HibernateWeb\src\test\resources
+2026-05-26 17:27:02,731 [Worker-93: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:27:02,740 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 17:27:02,742 [Worker-93: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:27:02,743 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 17:28:44,190 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:28:44,192 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 17:28:44,195 [Worker-84: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:28:44,197 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 17:29:14,565 [Worker-96: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:29:14,566 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 17:29:14,569 [Worker-96: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:29:14,570 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 17:29:43,851 [Worker-93: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:29:43,853 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\main\resources
+2026-05-26 17:29:43,856 [Worker-93: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:29:43,856 [Worker-93: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\Assignment_2_StudentCourse\src\test\resources
+2026-05-26 17:38:42,791 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:38:42,793 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 17:38:42,795 [Worker-98: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:38:42,796 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 17:42:03,207 [Worker-91: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:42:03,210 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 17:42:03,217 [Worker-91: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:42:03,221 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 17:47:14,695 [Worker-101: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 17:47:14,748 [Worker-101: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 17:47:14,806 [Worker-101: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 17:48:36,870 [Worker-98: Launching App1] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:48:36,872 [Worker-98: Launching App1] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 17:48:36,876 [Worker-98: Launching App1] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:48:36,877 [Worker-98: Launching App1] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 17:48:36,966 [Worker-98: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 17:48:37,019 [Worker-98: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 17:48:37,066 [Worker-98: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 17:57:56,452 [Worker-106: Launching App1] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:57:56,454 [Worker-106: Launching App1] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 17:57:56,458 [Worker-106: Launching App1] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 17:57:56,459 [Worker-106: Launching App1] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 17:57:56,527 [Worker-106: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 17:57:56,578 [Worker-106: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 17:57:56,616 [Worker-106: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 18:03:15,046 [Worker-103: Launching App1] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 18:03:15,051 [Worker-103: Launching App1] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 18:03:15,054 [Worker-103: Launching App1] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 18:03:15,055 [Worker-103: Launching App1] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 18:03:15,263 [Worker-103: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 18:03:15,306 [Worker-103: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 18:03:15,435 [Worker-103: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 18:03:51,878 [Worker-109: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 18:03:51,881 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 18:03:51,886 [Worker-109: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 18:03:51,888 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 18:06:02,811 [Worker-114: Launching App1] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 18:06:02,815 [Worker-114: Launching App1] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\main\resources
+2026-05-26 18:06:02,822 [Worker-114: Launching App1] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2026-05-26 18:06:02,825 [Worker-114: Launching App1] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Web_Java\MyApp_25_05_hibernate_instructor\src\test\resources
+2026-05-26 18:06:02,910 [Worker-114: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 18:06:02,960 [Worker-114: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 18:06:02,994 [Worker-114: Launching App1] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/MyApp_25_05_hibernate: com.app:MyApp_25_05_hibernate:0.0.1-SNAPSHOT with classifier null to /MyApp_25_05_hibernate/target/classes
+2026-05-26 23:06:07,738 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@7f0f62ad{STOPPING}[12.0.3,sto=0]
+2026-05-26 23:06:07,816 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@7acafa6e{HTTP/1.1, (http/1.1)}{127.0.0.1:0}

@@ -21,13 +21,11 @@
 			</tr>
 			<tr>
 				<td>Enter FirstName:</td>
-				<td><input type="text" name="fName"
-					value="<%=e.getfName()%>"></td>
+				<td><input type="text" name="fName" value="<%=e.getfName()%>"></td>
 			</tr>
 			<tr>
 				<td>Enter Password:</td>
-				<td><input type="password" name="pass"
-					value="<%=e.getPass()%>"></td>
+				<td><input type="password" name="pass" value="<%=e.getPass()%>"></td>
 			</tr>
 			<tr>
 				<td>Enter Email:</td>
@@ -38,9 +36,9 @@
 				<td>
 					<%
 					if (e.getGender().equals("male")) {
-					%> Male <input type="radio" name="gender" value="male" checked="checked">
-
-					Female <input type="radio" name="gender" value="female"> <%
+					%> Male <input type="radio" name="gender" value="male"
+					checked="checked"> Female <input type="radio" name="gender"
+					value="female"> <%
  }
  %> <%
  if (e.getGender().equals("female")) {
