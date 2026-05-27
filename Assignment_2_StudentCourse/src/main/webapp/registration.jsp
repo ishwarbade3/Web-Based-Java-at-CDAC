@@ -116,6 +116,10 @@ a:hover {
 					<td>Email</td>
 					<td><input type="email" name="email"></td>
 				</tr>
+				<tr>
+					<td>Password</td>
+					<td><input type="password" name="pass"></td>
+				</tr>
 
 				<tr>
 					<td>Branch</td>

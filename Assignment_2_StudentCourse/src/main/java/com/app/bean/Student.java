@@ -1,13 +1,9 @@
 package com.app.bean;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-import lombok.ToString;
+
 
 public class Student {
-	private String prn;
+	private int prn;
 	private String pass;
 	private String fName;
 	private String lName;
@@ -34,7 +30,7 @@ public class Student {
 		this.course = course;
 	}
 
-	public String getPrn() {
+	public int getPrn() {
 		return prn;
 	}
 
@@ -66,8 +62,8 @@ public class Student {
 		return semister;
 	}
 
-	public void setPrn(String prn) {
-		this.prn = prn;
+	public void setPrn(int i) {
+		this.prn = i;
 	}
 
 	public void setfName(String fName) {
@@ -98,10 +94,24 @@ public class Student {
 		this.semister = semister;
 	}
 
-	public Student(String prn, String fName, String lName, String email, String branch, String gender, String dob,
+	public Student(int prn, String fName, String lName, String email, String branch, String gender, String dob,
 			String semister) {
 		super();
 		this.prn = prn;
+		this.fName = fName;
+		this.lName = lName;
+		this.email = email;
+		this.branch = branch;
+		this.gender = gender;
+		this.dob = dob;
+		this.semister = semister;
+	}
+
+	public Student(int prn, String pass, String fName, String lName, String email, String branch, String gender,
+			String dob, String semister) {
+		super();
+		this.prn = prn;
+		this.pass = pass;
 		this.fName = fName;
 		this.lName = lName;
 		this.email = email;

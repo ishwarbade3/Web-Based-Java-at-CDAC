@@ -1,35 +1,31 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
+
 <!DOCTYPE html>
 <html>
-
 <head>
-<title>login</title>
-
+<meta charset="ISO-8859-1">
+<title>Login</title>
 </head>
 
 <body align="center">
-	<div class="main">
-		<h1>Student Login</h1>
-		<h3>Enter your login credentials</h3>
 
-		<form action=profile.jsp align="center" border="1">
-			<label for="first"> Username: </label> <input
-				type="text" id="first" name="first"
-				placeholder="Enter your Username" required> <br> <br> <label
-				for="password"> Password: </label> <input type="password"
-				id="password" name="password" placeholder="Enter your Password"
-				required> <br> <br>
+	<h1>Student Login</h1>
 
-			<div class="wrap">
-				<button type="submit">Submit</button>
-			</div>
-		</form>
+	<form action="loginServlet" method="post">
 
-		<p>
-			Not registered? <a href="registration.jsp"> Create an account </a>
-		</p>
-	</div>
+		<label>PRN :</label> <input type="text" name="prn" required> <br>
+		<br> <label>Password :</label> <input type="password" name="pass"
+			required> <br>
+		<br>
+
+		<button type="submit">Login</button>
+
+	</form>
+
+	<h3 style="color: red;">
+		<%=request.getAttribute("msg") == null ? "" : request.getAttribute("msg")%>
+	</h3>
+
 </body>
-
 </html>
