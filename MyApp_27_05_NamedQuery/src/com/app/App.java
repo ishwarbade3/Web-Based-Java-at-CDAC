@@ -20,14 +20,14 @@ public class App {
 
 		session.beginTransaction();
 		
-		Employee e1 = new Employee("Ashish","Dev",60000);
-		Employee e2 = new Employee("Rohit","Sec",41000);
-		Employee e3 = new Employee("sidd","Hr",100000);
-		
-		session.persist(e1);
-		session.persist(e2);
-		session.persist(e3);
-		
+//		Employee e1 = new Employee("Ashish","Dev",60000);
+//		Employee e2 = new Employee("Rohit","Sec",41000);
+//		Employee e3 = new Employee("sidd","Hr",100000);
+//		
+//		session.persist(e1);
+//		session.persist(e2);
+//		session.persist(e3);
+//		
 		
 		TypedQuery<Employee> query = session.getNamedQuery("findByName");
 		query.setParameter("name", "Ashish");
