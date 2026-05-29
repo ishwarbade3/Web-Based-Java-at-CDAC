@@ -16,5 +16,5 @@
 		<context:annotation-config></context:annotation-config>
 		
 		
-		<bean></bean>
+		<bean id="human" class="com.app.Human"></bean>
 </beans>
